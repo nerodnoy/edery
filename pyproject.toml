@@ -15,6 +15,7 @@ say-hello = "edery.scripts.say_hello:main"
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.3.1"
 ipython = "^8.13.2"
+flake8 = "^6.0.0"
 
 [build-system]
 requires = ["poetry-core"]
