@@ -1,0 +1,6 @@
+#!/Users/nastya/edery/.venv/bin/python
+import sys
+from edery.scripts.say_hello import main
+
+if __name__ == '__main__':
+    sys.exit(main())
